@@ -1,0 +1,1 @@
+Honestly, all three files are pretty similar in nature or methods. Once you know how one of them works, you'll understand how the rest of them work in the context of the assignment (see the report).
